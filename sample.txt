@@ -1,1 +1,2 @@
 sample from windows 11
+Consider adding the login button in green color with somewhat solid border.
