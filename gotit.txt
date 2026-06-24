@@ -1,0 +1,29 @@
+finally got it
+just remember: 
+git fetch //to just download the data to the knowedge of the system and not implement it.
+
+git pull //to actually implement the changes FROM github to my local machine.
+
+git push origin main // u know to send my final words after comit towards the github or upsteam.
+git push origin feature_login // where feature_login can be any branch name.
+
+NOW -u flag is used to specify the delivery address of the sending location where the parcel is to be delivered. 
+like// git push -u origin main // ensures that u dont need to put that whole snippet into action just //git push// works fine!!
+
+git reflog // is nice to see whether your all upstreams are properly set or the delivery addresses are saved or you have to enter
+the address everytime.
+
+git log --oneline --graph --all // u know to see the fancy graphical structure and all
+
+git clone ########// u know to copy that repo into your fresh system.
+
+git status // to know the status of current git working condition.
+
+You may edit it locally as many times you want and if you want to MERGE then you are presented with 2 options like 
+you are specifically in a branch then ensure that you can merge from local and then push the updated branch upstream
+ORRRR go online and view changes and create a Pull Request, then you yourself have to visit the pull request tab and affirm 
+the changes after viewing the commits (that you've already updated from local beforehand), and click on merge or green buttton.
+Now come to PC and just git fetch (this just lets the pc know what happened behind his back), and then run git pull to sync those
+changes real time in ur pc.
+
+--25jun26\01.23
