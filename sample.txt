@@ -1,2 +1,3 @@
 sample from windows 11
 Consider adding the login button in green color with somewhat solid border.
+2nd update v1.02: just learn figma
