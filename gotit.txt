@@ -18,7 +18,8 @@ git log --oneline --graph --all // u know to see the fancy graphical structure a
 git clone ########// u know to copy that repo into your fresh system.
 
 git status // to know the status of current git working condition.
-
+git branch -vv // to know the upstream is saved or not(like the shipping address is saved or not, or u have to enter it everytime)
+All this just to use// git push //instead of //git push origin ******//
 You may edit it locally as many times you want and if you want to MERGE then you are presented with 2 options like 
 you are specifically in a branch then ensure that you can merge from local and then push the updated branch upstream
 ORRRR go online and view changes and create a Pull Request, then you yourself have to visit the pull request tab and affirm 
