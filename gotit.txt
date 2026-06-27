@@ -28,3 +28,11 @@ Now come to PC and just git fetch (this just lets the pc know what happened behi
 changes real time in ur pc.
 
 --25jun26\01.23
+
+Next update --27jun26\12.50
+git push origin --delete justabc // it is used to delete a branch from github, like you can delete a branch from local, but this is used 
+especially for github.
+
+git push --force-with-lease origin main //used when you deleted a commit (like hard reset, or any restore), and you know that the commit 
+is deleted from local or git but the github is still lonely and if you want to delete the same thing from github (it depends) then this
+command is used to force push the changes coz the github is desgned to save ur history bro.
